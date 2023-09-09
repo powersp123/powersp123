@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @powersp123
+- 👀 I’m interested in ... Scripting 
+- 🌱 I’m currently learning ... Lua
